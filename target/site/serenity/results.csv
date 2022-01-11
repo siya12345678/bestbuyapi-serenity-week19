@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CRUD test with steps","This will get a store list","SUCCESS","2022-01-11T13:26:36.374Z[Europe/London]","0.0","2.78"
+"Store CRUD test with steps","This will create a new stores","SUCCESS","2022-01-11T13:26:39.191Z[Europe/London]","0.0","0.42"
+"Store CRUD test with steps","This will get stores by id","FAILURE","2022-01-11T13:26:39.611Z[Europe/London]","0.0","0.06"
+"Store CRUD test with steps","Update the user information and verify the update information","FAILURE","2022-01-11T13:26:39.762Z[Europe/London]","0.0","0.05"
+"Store CRUD test with steps","Delete the Category and verify if the Category is deleted!","FAILURE","2022-01-11T13:26:39.810Z[Europe/London]","0.0","0.13"

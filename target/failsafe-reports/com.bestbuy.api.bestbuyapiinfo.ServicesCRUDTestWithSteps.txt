@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps
+test001(com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps.test001(ServicesCRUDTestWithSteps.java:27)
+
+test002(com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps.test002(ServicesCRUDTestWithSteps.java:35)
+
+test003(com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps.test003(ServicesCRUDTestWithSteps.java:43)
+
+test004(com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps.test004(ServicesCRUDTestWithSteps.java:52)
+
+test005(com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.api.bestbuyapiinfo.ServicesCRUDTestWithSteps.test005(ServicesCRUDTestWithSteps.java:59)
+

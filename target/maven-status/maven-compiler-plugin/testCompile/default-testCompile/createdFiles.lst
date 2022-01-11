@@ -1,0 +1,5 @@
+com\bestbuy\api\bestbuyapiinfo\ProductsCRUDTestWithSteps.class
+com\bestbuy\api\bestbuyapiinfo\StoreCRUDTestWithSteps.class
+com\bestbuy\api\bestbuyapiinfo\CategoriesCRUDTestWithSteps.class
+com\bestbuy\api\testbase\TestBase.class
+com\bestbuy\api\bestbuyapiinfo\ServicesCRUDTestWithSteps.class

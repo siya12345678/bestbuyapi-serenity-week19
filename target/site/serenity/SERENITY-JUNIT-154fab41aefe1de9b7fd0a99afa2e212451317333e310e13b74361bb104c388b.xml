@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" skipped="0" tests="5" time="3.43" timestamp="2022-01-11T13:26:36.374Z[Europe/London]"><testcase classname="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" name="This will get a store list"/><testcase classname="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" name="This will create a new stores"/><testcase classname="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" name="This will get stores by id"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoresSteps.getStoresById(StoresSteps.java:94)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps.test003(StoreCRUDTestWithSteps.java:50)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" name="Update the user information and verify the update information"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoresSteps.updateStores(StoresSteps.java:65)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps.test004(StoreCRUDTestWithSteps.java:59)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps" name="Delete the Category and verify if the Category is deleted!"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoresSteps.deleteStores(StoresSteps.java:79)&#13;
+com.bestbuy.api.bestbuyapiinfo.StoreCRUDTestWithSteps.test005(StoreCRUDTestWithSteps.java:67)&#13;
+</system-err></testcase></testsuite>
